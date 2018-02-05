@@ -2,6 +2,8 @@
 
 Created by Taber Dunipace for non-commercial educational use only.
 
+Project is compatible with Unity 2017.1.0f3
+
 Do not redistribute without the express permission of all contributors listed below.
 
 ## Contributors
